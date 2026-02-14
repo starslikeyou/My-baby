@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For You ❤️</title>
+  <style>
+    body {
+      background: #ffe6f0;
+      text-align: center;
+      font-family: Arial;
+      padding-top: 100px;
+    }
+    h1 {
+      color: #ff3366;
+      font-size: 40px;
+    }
+    .bouquet {
+      font-size: 60px;
+    }
+    p {
+      font-size: 20px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Happy Valentine's Day ❤️</h1>
+  <div class="bouquet">🌹🌷🌻🌼🌺🌸</div>
+  <p>This is your digital bouquet.</p>
+  <p>If I could, I’d give you real flowers…</p>
+  <p>But for now, I’m giving you my whole heart. 💖</p>
+
+</body>
+</html>
